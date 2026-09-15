@@ -1,0 +1,1 @@
+export default function Kontakt(){return <main className="page"><div className="container"><div className="page-title"><div className="eyebrow">KONTAKT</div><h1>Masz pytanie?</h1><p>Formularz kontaktowy zostanie podłączony do właściwego kanału obsługi w kolejnym etapie.</p></div></div></main>}
