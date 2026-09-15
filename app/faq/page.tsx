@@ -1,0 +1,1 @@
+export default function FAQ(){return <main className="page"><div className="container"><div className="page-title"><div className="eyebrow">FAQ</div><h1>Najczęstsze pytania.</h1><p>Treści FAQ zostaną uzupełnione przed uruchomieniem sprzedaży. Teksty prawne i warunki usług wymagają zatwierdzenia przed publikacją.</p></div></div></main>}
