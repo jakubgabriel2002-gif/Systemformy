@@ -1,0 +1,1 @@
+export default function Privacy(){return <main className="page"><div className="container"><div className="page-title"><div className="eyebrow">PRYWATNOŚĆ</div><h1>Polityka prywatności</h1><p>To miejsce na finalny dokument prawny. Nie publikujemy fikcyjnych zapisów — treść powinna zostać przygotowana i zweryfikowana pod realny zakres przetwarzania danych.</p></div></div></main>}
