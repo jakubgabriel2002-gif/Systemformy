@@ -1,0 +1,3 @@
+import { ProductCard } from '@/components/ProductCard';
+import { products } from '@/lib/products';
+export default function Ebooki(){const items=products.filter(p=>p.type==='ebook'||p.type==='freebie');return <main className="page"><div className="container"><div className="page-title"><div className="eyebrow">BIBLIOTEKA</div><h1>E-booki, które prowadzą od problemu do działania.</h1><p>Materiały są konkretne i uporządkowane. Po zakupie dostęp trafia do Twojego konta, zamiast kończyć się na zwykłym linku do PDF.</p></div><div className="product-grid">{items.map(p=><ProductCard key={p.slug} product={p}/>)}</div></div></main>}
