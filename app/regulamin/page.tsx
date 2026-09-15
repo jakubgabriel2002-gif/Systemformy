@@ -1,0 +1,1 @@
+export default function Terms(){return <main className="page"><div className="container"><div className="page-title"><div className="eyebrow">REGULAMIN</div><h1>Regulamin</h1><p>To miejsce na finalny regulamin sprzedaży produktów cyfrowych i usług. Treść wymaga przygotowania pod rzeczywisty model biznesowy i weryfikacji prawnej.</p></div></div></main>}
